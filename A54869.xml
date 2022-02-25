@@ -1,0 +1,138 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An account of K. Williams royal heading of the men of Inniskillin and of his victorious march from Dublin to Athlone, with the late K. James's taking, &amp;c.</title>
+            <author>Pierson, T.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54869</idno>
+            <idno type="STC">Wing P2213A</idno>
+            <idno type="STC">ESTC R35107</idno>
+            <idno type="EEBO-CITATION">14994141</idno>
+            <idno type="OCLC">ocm 14994141</idno>
+            <idno type="VID">103049</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54869)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103049)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1576:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An account of K. Williams royal heading of the men of Inniskillin and of his victorious march from Dublin to Athlone, with the late K. James's taking, &amp;c.</title>
+                  <author>Pierson, T.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Church ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end (p. [2]): T. Pierson.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  War of 1689-1691.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:103049:1" rendition="simple:additions"/>
+            <head>AN ACCOUNT OF K. <hi>Williams Royal heading</hi> OF THE Men of Inniskillin. And of His Victorious March from <hi>Dublin to Athlone,</hi> With the LATE K. James's Taking, &amp;c.</head>
+            <head type="sub">His way to that Place.</head>
+            <p>JUST now an Expreſs is ar<g ref="char:EOLhyphen"/>rived from Our Royal Ma<g ref="char:EOLhyphen"/>ſter's Camp, giving an Ac<g ref="char:EOLhyphen"/>count of the Affairs in <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> as followeth:</p>
+            <p>That the late King <hi>James,</hi> after his grand Defeat at the <hi>Boyne,</hi> finding his Affairs in a deſperate condition, retired from <hi>Dublin,</hi> with his Followers, on <hi>Wedneſday</hi> Morning by two a Clock, taking his way directly by the great Road for <hi>Athlone,</hi> which is ſome Miles from <hi>Dublin,</hi> leaving Orders for the Keys of the Caſtle, and Gates of the City of <hi>Dublin,</hi> to be deli<g ref="char:EOLhyphen"/>vered upon Summons; which was accordingly performed the next Day to the Duke of <hi>Ormond,</hi> whome the King ſent with Six Hundred Foot, and Three Hun<g ref="char:EOLhyphen"/>dred Dragoons, to take Poſſeſſion of it, having Orders to releaſe all Proteſtant Priſoners, and to make a ſtrict ſearch for Mines, <hi>&amp;c.</hi> Which Orders, His Grace the D. of <hi>Ormond,</hi> immediately upon his entrance into <hi>Dublin,</hi> put in Ex<g ref="char:EOLhyphen"/>ecution, but after a very ſtrict ſearch was made in all ſuſpected places throughout the whole City,
+<pb facs="tcp:103049:2" rendition="simple:additions"/>there was not the leaſt appearance of a Mine found.</p>
+            <p>The <hi>Iriſh</hi> Garriſon in <hi>Dublin</hi> were ſo fearful, that they clapt up all the Proteſtant-men into the Chur<g ref="char:EOLhyphen"/>ches, as ſoon as their King went to the <hi>Boyne;</hi> but on Wedneſday-morning hearing of the Defeat, they diſcharged them, and ſcow<g ref="char:EOLhyphen"/>red off, and all the Miſchief they did, was to cut the Bell-Ropes, that they might, in ſome meaſure, prevent their Friends rejoicing there.</p>
+            <p>As ſoon as King <hi>James</hi> left <hi>Dub<g ref="char:EOLhyphen"/>lin,</hi> taking the <hi>Iriſh</hi> Inhabitants with him, our <hi>Engliſh</hi> Friends en<g ref="char:EOLhyphen"/>tred the Popiſh Houſes that were deſerted; and thence took Arms that they had left: With which, they went ſix Miles from the City, to meet the King, being led by Lieut. Gen. <hi>Roger Moore.</hi> The King on Thurſday-night lay encamped in the Park, two Miles from <hi>Dublin</hi> 3 and early on Saturday-morning his Majeſty entred the City; and 'tis hardly to be expreſſed with what expreſſions of Joy he was received by the poor Proteſtants, the Par<g ref="char:EOLhyphen"/>ticulars of which, would contain a whole Sheet.</p>
+            <p>Our Army followed the <hi>Iriſh</hi> Rebels to <hi>Munſter:</hi> The King de<g ref="char:EOLhyphen"/>ſigns to ſet forward from <hi>Dublin</hi> towards <hi>Athlone,</hi> on Monday-mor<g ref="char:EOLhyphen"/>ning.</p>
+            <p>The famed Town of <hi>Droghedah,</hi> though Garriſoned by Three Thouſand <hi>Iriſh</hi> Souldiers, finding the Late King's Army was beaten from the very Paſs that ſhould co<g ref="char:EOLhyphen"/>ver the Town, on which account they could have little hopes of Re<g ref="char:EOLhyphen"/>lief, capitulated on <hi>Friday,</hi> The Officers to go out with their Swords only, and the common Souldiers to go home with their Hand in their Pockets, leaving their Arms behind them.</p>
+            <p>His Majeſty was pleaſed to tell the <hi>Inniskilling</hi>-Men that He had heard a great Character of them, and therefore would do them the Honour to Head them Himſelf, which accordingly he performed; for aftet they had paſſed the <hi>Foard,</hi> He Charged at the Head of them, and they faught like <hi>Tygers,</hi> du<g ref="char:EOLhyphen"/>ring the whole Action, His Maje<g ref="char:EOLhyphen"/>ſty encouraging them by his own Example; and moſt that were kil<g ref="char:EOLhyphen"/>led were of that Party, they loſing above a Hundred Men.</p>
+            <p>The <hi>Iriſh,</hi> aſſiſted by the <hi>French,</hi> fought above Three Hours after their King ran from them to <hi>Dub<g ref="char:EOLhyphen"/>len;</hi> for after their Ranks were broke at the <hi>Foard,</hi> the late K. <hi>James</hi> ran; but they got together in ſe<g ref="char:EOLhyphen"/>veral Bodies, and made a ſmall Re<g ref="char:EOLhyphen"/>ſiſtance; and the <hi>French</hi> of the <hi>Iriſh</hi> Army behaved themſelves extreme<g ref="char:EOLhyphen"/>ly well, forming themſelves into a Body, ſo as the Horſe could not break in on them, till ſome Field-Pieces were brought to bear on them, which put them to the Rout alſo.</p>
+            <closer>
+               <signed>Yours <hi>T. Pierſon.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>T. Church,</hi> near <hi>Smithfield,</hi> 1690.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
